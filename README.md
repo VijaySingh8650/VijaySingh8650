@@ -1,5 +1,4 @@
-### Hi there 👋
-## Keep Coding :man_technologist:
+![Web Developer] (https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 <!--
 **VijaySingh8650/VijaySingh8650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
