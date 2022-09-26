@@ -1,5 +1,6 @@
 
-<img align="center" src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  />
+
+<img style="width:60%" src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  />
 <h1>Hi there 👋,</h1>
 I'm Vijay, Skilled web developer with some projects of experience in website development through NodeJS, ExpressJS, Javascript, CSS, HTML with willingness to master web development field.
 
