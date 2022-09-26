@@ -1,3 +1,4 @@
+![https://giphy.com/embed/qgQUggAC3Pfv687qPC.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1>Hi there 👋,</h1>
 I'm Vijay, Skilled web developer with some projects of experience in website development through NodeJS, ExpressJS, Javascript, CSS, HTML with willingness to master web development field.
 
