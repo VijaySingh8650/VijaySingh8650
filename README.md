@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" height="300px"/>
 <h1>Hi there 👋,</h1>
 I'm Vijay, Skilled web developer with some projects of experience in website development through NodeJS, ExpressJS, Javascript, CSS, HTML with willingness to master web development field.
 
