@@ -1,7 +1,10 @@
 
 
 <img style="width:60%" src="https://c.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  />
-<h1>Hi there 👋,</h1>
+<h3 align="center">
+  Welcome to Vijay Singh Rathore's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 I'm Vijay, Skilled web developer with some projects of experience in website development through NodeJS, ExpressJS, Javascript, CSS, HTML with willingness to master web development field.
 
 
