@@ -25,6 +25,25 @@ A Skilled web developer with some projects of experience in website development 
 - ⚡ Fun fact **Developers need one laptop and internet connectivity only to survive**
 <br>
 
+<h3>
+  Best Project:-
+</h3>
+<div>
+<h4>LOVODA Clone</h4> Link [donating](https://paypal.me/abhisheknaiidu)
+<p>LOVODA is a women's fashion brand website that deals with earrings, rings, bags, necklaces, bracelets and many more.</p>
+<b>Features</b>
+<p>
+- End-to-end product purchasing flow.
+- From signing in to Adding items to the cart, increasing their quantity, and deleting items.
+- Integrated with the backend using heroku and git. 
+</p>
+<b>Tech Stack: </b>
+<p>React | Chakra UI | CSS | HTML</p>
+</div>
+
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
