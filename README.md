@@ -29,7 +29,7 @@ A Skilled web developer with some projects of experience in website development 
   Best Project:-
 </h3>
 <div>
-<h4>LOVODA Clone</h4> Link [donating](https://paypal.me/abhisheknaiidu)
+<h4>LOVODA Clone <a href="https://github.com/VijaySingh8650/exuberant-place-760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vijaysi91629929" height="30" width="40"/></a> <a href="https://lovoda-ecommerce-website.netlify.app/" target="blank">Website Link</a></h4> 
 <p>LOVODA is a women's fashion brand website that deals with earrings, rings, bags, necklaces, bracelets and many more.</p>
 <b>Features</b>
 <p>
