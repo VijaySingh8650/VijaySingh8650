@@ -13,6 +13,7 @@
 <h3 align="left">About Me</h3>
 I am a Civil Engineering graduate worked as a Civil Engineer, Instructor(in Civil Engineering College) and Maths tutor for almost 4 years. While working this, I was sitting on the fence. I didn't have any idea about the career I needed to choose to make that my passion.
 
+
 I tried everything like Digital marketing, Data science and finally I looked some videos on youtube and those made me realise that  Web developer can be a great career all we need is consistency. So in the end of  2021 I started learning HTML, CSS and Javascript. The things which were making me happy was seeing the result of codes on browser and the functionality. 
 
 Then I decided to be web developer and took admission in Masai for learning MERN development. We all are not perfect in our own filed but we are on the way of perfection which is never gonna end and thats why we all love our career because each day, we learn something new and implement it.
