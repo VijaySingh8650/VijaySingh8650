@@ -11,7 +11,7 @@
 </p>
 <br>
 <h3 align="left">About Me</h3>
-i am a Civil Engineering graduate worked as a Civil Engineer, Instructor(in Civil Engineering College) and Maths tutor for almost 4 years. While working this, I was sitting on the fence. I didn't have any idea about the career I needed to choose to make that my passion.
+I am a Civil Engineering graduate worked as a Civil Engineer, Instructor(in Civil Engineering College) and Maths tutor for almost 4 years. While working this, I was sitting on the fence. I didn't have any idea about the career I needed to choose to make that my passion.
 
 I tried everything like Digital marketing, Data science and finally I looked some videos on youtube and those made me realise that  Web developer can be a great career all we need is consistency. So in the end of  2021 I started learning HTML, CSS and Javascript. The things which were making me happy was seeing the result of codes on browser and the functionality. 
 
