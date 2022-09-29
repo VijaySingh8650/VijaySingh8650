@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/VijaySingh8650/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/VijaySingh8650/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines= AAAn%20Aspiring%20Fullstack%20web%20developer&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-A Skilled web developer with some projects of experience in website development through NodeJS, ExpressJS, Javascript, CSS, HTML with willingness to master web development field.
+An aspiring web developer with some projects of experience in website development through NodeJS, ExpressJS, Javascript, CSS, HTML with willingness to master web development field.
 
 
 
