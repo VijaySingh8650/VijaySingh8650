@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=An+Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/VijaySingh8650/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=An+Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 <h3 align="left">About Me</h3>
 I am a Civil Engineering graduate worked as a Civil Engineer, Instructor(in Civil Engineering College) and Maths tutor for almost 4 years. While working this, I was sitting on the fence. I didn't have any idea about the career I needed to choose to make that my passion.
