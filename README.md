@@ -12,6 +12,7 @@
 <h3 align="left">About Me</h3>
 An aspiring web developer with some projects of experience in website development through NodeJS, ExpressJS, ReactJS, Javascript, CSS, and HTML. 
 <br>
+<br>
 - 🌱 I’m currently learning **Backend (MongoDB, Express)**
 
 - 👨‍💻 All of my projects are available at [https://vijaysingh8650.github.io/](https://vijaysingh8650.github.io/)
