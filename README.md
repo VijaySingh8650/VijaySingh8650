@@ -39,6 +39,19 @@ Lovoda is a women's fashion brand website that deals with earrings, rings, bags,
 - Created homepage to the cart section .
 - Implemented Every functionality like authentication filter, adding, deleting and changing quantity in cart section.
 <br>
+ 
+ 2. CRICBUZZ CLONE <a href="https://github.com/VijaySingh8650/cricbuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vijaysi91629929" height="30" width="40"/></a> <a href="https://luxury-douhua-2f73cb.netlify.app/index.html" target="blank">Website Link</a>
+
+Cricbuzz is an Indian cricket website which features news, articles, live scores of matches, videos. 
+
+`Features`
+- It updates you with the current matches, their scores, past matches and more details about each and every match.
+- It also updates you regarding the match news through pictures and videos.
+
+`Area of responsibility`
+- Created homepage to show some news related to the matches and the current matches and their socres.
+- Implemented functionality using ES6 (import and export features) to make the code more clean.
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
