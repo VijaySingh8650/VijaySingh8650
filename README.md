@@ -27,7 +27,7 @@ We all are not perfect in our own filed that's why we learn everyday new things 
 
 <h3 align="left">Projects</h3>
 <div>
-1. LOVODA CLONE <a href="https://github.com/VijaySingh8650/exuberant-place-760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vijaysi91629929" height="30" width="40"/></a> <a href="https://lovoda-ecommerce-website.netlify.app/" target="blank">Website Link</a>
+1. LOVODA CLONE <a href="https://github.com/VijaySingh8650/exuberant-place-760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vijaysi91629929" height="30" width="40"/></a> <a href="https://lovoda-ecommerce.vercel.app/" target="blank">Website Link</a>
 
 Lovoda is a women's fashion brand website that deals with earrings, rings, bags, necklaces, bracelets and many more established in 2012 in the city of Baltimore, Maryland.
 
