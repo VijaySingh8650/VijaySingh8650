@@ -10,8 +10,8 @@
   <a href="https://github.com/VijaySingh8650/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=An+Aspiring+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 <h3 align="left">About Me</h3>
-I am a civil engineering graduate. Before taking a step in web development field, I explored many careers like civil engineering, digital marketing, data scientist and came up with a video on youtube regarding the web development field as a career. So I bought one course from udemy for web development field. When I was seeing the result of some codes on browser, It used to get me excited. Then I decided to make this field as my career and took admission in Masai. 
-We all are not perfect in our own filed that's why we learn everyday new things and implement it in our career. We all have a long path to go and lots of things to learn. 
+I am a civil engineering graduate. Before taking a step into the web development field, I explored many careers like civil engineering, digital marketing, and data science. I came up with a video on youtube regarding the web development field as a career. So I bought one course from Udemy for the web development field. When I was seeing the result of some codes on the browser, It used to get me excited. Then I decided to make this field my career and took admission in Masai. 
+We are not perfect in our field that's why we learn every day new things and implement them in our careers. We all have a long path and lots of things to know.
 <br>
 <br>
 - 🌱 I’m currently learning **Backend (MongoDB, Express)**
