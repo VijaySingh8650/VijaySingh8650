@@ -12,7 +12,7 @@
 
 <br>
 <br>
-- 🌱 I’m currently learning **Backend (MongoDB, Express)**
+- 🌱 I’m currently working as a Frontend Developer (React JS) at Honeysys, Bangaluru.
 
 - 👨‍💻 All of my projects are available at [https://vijaysingh8650.github.io/](https://vijaysingh8650.github.io/)
 
