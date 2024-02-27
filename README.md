@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/VijaySingh8650/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/VijaySingh8650/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <br>
